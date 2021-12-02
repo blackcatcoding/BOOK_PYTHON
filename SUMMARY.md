@@ -1,7 +1,4 @@
-# Summary
+# Table of contents
 
-- [简介](README.md)
-- [Python语法和算法](1/README.md)
-
-
-
+* [敲开Python之门](README.md)
+* [基础数据类型](ji-chu-shu-ju-lei-xing.md)
