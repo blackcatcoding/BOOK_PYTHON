@@ -15,6 +15,7 @@
 
 - [扣哒](kouda/README.md)
 
+  - [计算机科学1](kouda/1.md)
   - [计算机科学3](kouda/3.md)
 
   
