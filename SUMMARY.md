@@ -13,4 +13,9 @@
     - [面向对象编程进阶](2/4.md)
 - [Pygame游戏编程](3/README.md)
 
+- [扣哒](kouda/README.md)
+
+  - [计算机科学3](kouda/3)
+
+  
 
