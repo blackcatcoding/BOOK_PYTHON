@@ -4,14 +4,13 @@
 
 - [Python深入浅出](1/README.md)
   
-    - [Python语言基础](1/1.md)
+    - [Python语法教程](1/1.md)
     
 - [前端开发](2/README.md)
   
-    - [html](2/1.md)
-    - [css](2/2.md)
-    - [javascript](2/3.md)
-    - [jquery](2/4.md)
+    - [html和css](2/1.md)
+    - [javascript](2/2.md)
+    - [jquery](2/3.md)
     
 - [服务器开发](3/README.md)
 
