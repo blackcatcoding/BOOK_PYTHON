@@ -1,1 +1,1 @@
-# Python语法教程
+# Python系列教程
